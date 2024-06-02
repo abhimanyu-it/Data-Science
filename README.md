@@ -6,6 +6,6 @@ processing (NLP) methods and word embeddings to accurately capture the subtle
 nuances of writing style and content. By tackling this problem, the research seeks to
 enhance personalized marketing strategies, optimize user experiences on blogging
 platforms, and provide valuable academic insights into the relationship between
-language and demographic characteristics.The following models have been used:< br / >
-i) Logistic Regression < br / >
+language and demographic characteristics.The following models have been used:<br/>
+i) Logistic Regression <br/>
 ii) CNN
